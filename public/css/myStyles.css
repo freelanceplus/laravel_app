@@ -1,0 +1,20 @@
+.heading-color{
+    color: #555555;
+}
+
+.admin-panel-color{
+    background-color: #111111 !important;
+}
+
+.sidebar-text{
+    color: black !important;
+}
+
+.card-hover:hover {
+    background-color: #00a2e3 !important;
+    color: white !important;
+}
+
+/*.btn-hire-top-talent:hover{*/
+/*    background-color: #00a2e3 !important;*/
+/*}*/
